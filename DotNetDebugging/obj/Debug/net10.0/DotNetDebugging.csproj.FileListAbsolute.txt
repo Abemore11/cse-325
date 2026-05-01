@@ -1,0 +1,14 @@
+C:\my-projects\cse-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.exe
+C:\my-projects\cse-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.deps.json
+C:\my-projects\cse-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.runtimeconfig.json
+C:\my-projects\cse-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.dll
+C:\my-projects\cse-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.pdb
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.dll
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\refint\DotNetDebugging.dll
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.pdb
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\my-projects\cse-325\DotNetDebugging\obj\Debug\net10.0\ref\DotNetDebugging.dll

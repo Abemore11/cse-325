@@ -1,0 +1,14 @@
+C:\my-projects\cse-325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\my-projects\cse-325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\my-projects\cse-325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\my-projects\cse-325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\my-projects\cse-325\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\my-projects\cse-325\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
