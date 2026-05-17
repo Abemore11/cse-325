@@ -1,0 +1,15 @@
+<!-- Defaults to HTML; 
+'at' symbol is used to transition into C# in a Razor view. -->
+
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h2>Welcome</h2>
+
+<ul>
+    @for (int i = 0; i < (int)ViewData["NumTimes"]!; i++)
+    {
+        <li>@ViewData["Message"]</li>
+    }
+</ul>
