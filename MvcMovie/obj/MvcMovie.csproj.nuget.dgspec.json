@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\abrmo\\.nuget\\packages\\",
-        "outputPath": "C:\\my-projects\\cse-325\\MvcMovie\\obj\\",
+        "outputPath": "c:\\my-projects\\cse-325\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abrmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.8, )"
+            },
+            "Microsoft.Extensions.Validation": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

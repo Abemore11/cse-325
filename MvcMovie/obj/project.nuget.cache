@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VX5B0qZ1w8Q=",
+  "dgSpecHash": "ENQmUyuNTck=",
   "success": true,
-  "projectFilePath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrmo\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -87,6 +87,7 @@
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.8\\microsoft.entityframeworkcore.sqlserver.10.0.8.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.8\\microsoft.entityframeworkcore.tools.10.0.8.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.8\\microsoft.extensions.dependencymodel.10.0.8.nupkg.sha512",
+    "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.extensions.validation\\10.0.0\\microsoft.extensions.validation.10.0.0.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.identity.client\\4.73.1\\microsoft.identity.client.4.73.1.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.73.1\\microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
     "C:\\Users\\abrmo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
@@ -138,12 +139,24 @@
   ],
   "logs": [
     {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Validation will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "warningLevel": 1,
+      "filePath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "libraryId": "Microsoft.Extensions.Validation",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -153,9 +166,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "c:\\my-projects\\cse-325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

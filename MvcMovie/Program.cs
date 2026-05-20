@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
+using MvcMovie.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,10 +16,21 @@ else
         options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMvcMovieContext")));
 }
 
+// Registers validation services with Dependency Injection.
+// ASP.NET now knows how to perform validation when it encounters validation attributes in the model classes, such as [Required] or [StringLength].
+builder.Services.AddValidation();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    SeedData.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
